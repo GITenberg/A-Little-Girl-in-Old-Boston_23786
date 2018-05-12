@@ -1,0 +1,27 @@
+_repo: A-Little-Girl-in-Old-Boston_23786
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23786-h/images/cover_ob.jpg
+creator:
+  author:
+    agent_name: Douglas, Amanda M.
+    alias: Douglas, Amanda Minnie
+    birthdate: 1831
+    deathdate: 1916
+    gutenberg_agent_id: '9482'
+    url: http://www.gutenberg.org/2009/agents/9482
+description: ''
+gutenberg_issued: '2007-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23786'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boston (Mass.) -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Little Girl in Old Boston
+url: http://www.gutenberg.org/ebooks/23786
